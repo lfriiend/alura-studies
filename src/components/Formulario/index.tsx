@@ -30,7 +30,9 @@ export default function Formulario() {
                         required
                     />
                 </div>
-                <Botao />
+                <Botao>
+                    Adicionar
+                </Botao>
             </div>
         </form>
     )
